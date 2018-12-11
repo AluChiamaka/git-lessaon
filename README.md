@@ -1,1 +1,1 @@
-this is just a lesson about hosting directory to github
+this is just a lesson about hosting directory to githubadd info to git-lesson
